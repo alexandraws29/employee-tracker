@@ -7,14 +7,14 @@ VALUES
 
 INSERT INTO role (title, salary, department_id)
 VALUES
-    ('Pathologist', 99000, 1),
-    ('Path Tech', 74000, 1),
-    ('Cytologist', 65000, 2),
-    ('Cyto Tech', 63000, 2),
-    ('Hematopathologist', 97000, 3),
-    ('Administrative Assistant', 24000, 4),
-    ('Administrative Lead', 30000, 4),
-    ('Administrative Supervisor', 65000, 4);
+    ('Pathologist', 100000, 1),
+    ('Path Tech', 65000, 1),
+    ('Cytologist', 120000, 2),
+    ('Cyto Tech', 60000, 2),
+    ('Hematopathologist', 110000, 3),
+    ('Administrative Assistant', 50000, 4),
+    ('Administrative Lead', 60000, 4),
+    ('Administrative Supervisor', 80000, 4);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES
