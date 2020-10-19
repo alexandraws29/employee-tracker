@@ -16,4 +16,5 @@
 ## Contact Me Via Email
 > <alexandraws29@outlook.com>
 ## See How It Works
-> 
+![Screenshot of application](/images/employeeTracker.jpg)
+![video of application](/images/employeeTracker.gif)
